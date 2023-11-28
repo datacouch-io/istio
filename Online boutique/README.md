@@ -51,7 +51,7 @@ If you’re using this demo, please **★Star** this repository to show your int
    ```
 
    Substitute `<PROJECT_ID>` with the ID of your Google Cloud project.
-  
+
 4. Confirm the services have been enabled for your project.
 
    ```sh
@@ -138,8 +138,7 @@ The [`/kustomize` folder](/kustomize) contains instructions for customizing the 
 **Online Boutique** is composed of 11 microservices written in different
 languages that talk to each other over gRPC.
 
-[![Architecture of
-microservices](/docs/img/architecture-diagram.png)](/docs/img/architecture-diagram.png)
+<img src="https://i.ibb.co/v4BT88m/architecture-diagram.png" alt="architecture-diagram" border="0">
 
 Find **Protocol Buffers Descriptions** at the [`./protos` directory](/protos).
 
