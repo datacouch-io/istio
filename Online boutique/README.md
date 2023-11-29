@@ -22,7 +22,7 @@ If you’re using this demo, please **★Star** this repository to show your int
 
 | Home Page                                                                                                         | Checkout Screen                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| [![Screenshot of store homepage](/docs/img/online-boutique-frontend-1.png)](/docs/img/online-boutique-frontend-1.png) | [![Screenshot of checkout screen](/docs/img/online-boutique-frontend-2.png)](/docs/img/online-boutique-frontend-2.png) |
+| <img src="https://i.ibb.co/5rDXGnw/online-boutique-frontend-1.png" alt="online-boutique-frontend-1" border="0"> | <img src="https://i.ibb.co/QYyJ4VD/online-boutique-frontend-2.png" alt="online-boutique-frontend-2" border="0"> |
 
 ## Interactive quickstart (GKE)
 
