@@ -36,7 +36,7 @@ static_resources:
                 route:
                   cluster: service_vpp
                   prefix_rewrite: "/"
-                  host_rewrite: "www.virtualpairprogrammers.com"
+                  host_rewrite: "google.com"
           http_filters:
           - name: envoy.router
   clusters:
@@ -70,7 +70,7 @@ static_resources:
         - endpoint:
             address:
               socket_address:
-                address: www.virtualpairprogrammers.com
+                address: www.istio.io
                 port_value: 443
     tls_context:
-      sni: www.virtualpairprogrammers.com
+      sni: www.istio.io
